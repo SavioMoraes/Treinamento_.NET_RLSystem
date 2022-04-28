@@ -1,0 +1,1 @@
+O Curso de C# Orientado a Objetos tem o objetivo de abordar a orientação a objetos na linguagem C#. Para isto, será realizado um overview nos seus principais recursos, como classes, objetos, métodos, classes abstratas, interfaces, dentre outros. O objetivo deste curso é tornar o aluno apto a desenvolver na plataforma .NET| utilizando a linguagem C#.s
