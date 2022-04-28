@@ -1,0 +1,15 @@
+C:\Users\smmsa\source\repos\Boletim\bin\Debug\net6.0\Boletim.exe
+C:\Users\smmsa\source\repos\Boletim\bin\Debug\net6.0\Boletim.deps.json
+C:\Users\smmsa\source\repos\Boletim\bin\Debug\net6.0\Boletim.runtimeconfig.json
+C:\Users\smmsa\source\repos\Boletim\bin\Debug\net6.0\Boletim.dll
+C:\Users\smmsa\source\repos\Boletim\bin\Debug\net6.0\Boletim.pdb
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.csproj.AssemblyReference.cache
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.AssemblyInfoInputs.cache
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.AssemblyInfo.cs
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.csproj.CoreCompileInputs.cache
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.dll
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\refint\Boletim.dll
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.pdb
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\Boletim.genruntimeconfig.cache
+C:\Users\smmsa\source\repos\Boletim\obj\Debug\net6.0\ref\Boletim.dll

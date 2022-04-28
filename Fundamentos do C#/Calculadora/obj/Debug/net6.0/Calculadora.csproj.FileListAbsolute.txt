@@ -1,0 +1,15 @@
+C:\Users\smmsa\source\repos\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\smmsa\source\repos\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\smmsa\source\repos\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\smmsa\source\repos\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\smmsa\source\repos\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\smmsa\source\repos\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
